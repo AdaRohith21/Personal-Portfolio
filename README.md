@@ -1,2 +1,2 @@
 #Personal-Portfolio link
-https://adarohithportfolio.netlify.app/projects/
+https://adarohithportfolio.netlify.app
